@@ -29,3 +29,7 @@ textarea {
 textarea {
   resize: none;
 }
+
+li {
+  list-style: none;
+}
